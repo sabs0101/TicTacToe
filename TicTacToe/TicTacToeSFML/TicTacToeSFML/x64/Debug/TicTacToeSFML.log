@@ -1,0 +1,24 @@
+﻿  TicTacToe.cpp
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(95,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(95,72): warning C4244:         with
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(95,72): warning C4244:         [
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(95,72): warning C4244:             T=float
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(95,72): warning C4244:         ]
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(96,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(96,82): warning C4244:         with
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(96,82): warning C4244:         [
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(96,82): warning C4244:             T=float
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(96,82): warning C4244:         ]
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(100,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(100,69): warning C4244:         with
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(100,69): warning C4244:         [
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(100,69): warning C4244:             T=float
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(100,69): warning C4244:         ]
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(101,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(101,69): warning C4244:         with
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(101,69): warning C4244:         [
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(101,69): warning C4244:             T=float
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(101,69): warning C4244:         ]
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(326,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\TicTacToe\TicTacToeSFML\TicTacToeSFML\TicTacToe.cpp(326,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TicTacToeSFML.vcxproj -> C:\TicTacToe\TicTacToeSFML\x64\Debug\TicTacToeSFML.exe

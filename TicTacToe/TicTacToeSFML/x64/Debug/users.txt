@@ -1,0 +1,15 @@
+  1 0 0
+sab@gmail.com 12 0 0 0
+sabs 0 0 0 -858993460
+sabs@g.com 123 0 0 0
+sabs@gl.com sab*123 0 0 0
+suns@gmail.com 123 0 0 0
+sabs@123.com sab
+  0 0 0
+su@123 123 0 2
+su@1234 1234 0 1
+su@12345 12345
+su@123456 123456
+su su
+su1 su1
+1234@gmail.com 1234

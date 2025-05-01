@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TicTacToe\\TicTacToeSFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6ECCD7D-1C5D-4383-8C25-BE3A2A10A596}|TicTacToeSFML\\TicTacToeSFML.vcxproj|C:\\TicTacToe\\TicTacToeSFML\\TicTacToeSFML\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6ECCD7D-1C5D-4383-8C25-BE3A2A10A596}|TicTacToeSFML\\TicTacToeSFML.vcxproj|solutionrelative:TicTacToeSFML\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToe.cpp",
+              "DocumentMoniker": "C:\\TicTacToe\\TicTacToeSFML\\TicTacToeSFML\\TicTacToe.cpp",
+              "RelativeDocumentMoniker": "TicTacToeSFML\\TicTacToe.cpp",
+              "ToolTip": "C:\\TicTacToe\\TicTacToeSFML\\TicTacToeSFML\\TicTacToe.cpp",
+              "RelativeToolTip": "TicTacToeSFML\\TicTacToe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T19:18:48.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
